@@ -1,2 +1,2 @@
-# box-take-home
-Box Take-Home Exercise
+# Minishogi
+Minishogi board game. A Japanese variant of Chess.
